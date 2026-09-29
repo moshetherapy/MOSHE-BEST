@@ -15,7 +15,7 @@ description: "יוצר פוסט מלא, מעניין, מקורי ולא גנרי
 
 קרא את FB content tracker.xlsx.
 
-עבוד רק על Idea ID ש Hook Status שלו הוא APPROVED וש Content Status שלו הוא PENDING.או NEEDS REVISION
+עבוד רק על Idea ID ש Hook Status שלו הוא APPROVED וש Content Status שלו הוא PENDING או NEEDS REVISION.
 
  
 
@@ -29,7 +29,7 @@ description: "יוצר פוסט מלא, מעניין, מקורי ולא גנרי
 
 אל תיצור גרסה נוספת או קובץ חדש. עדכן את התוכן הקיים באותו קובץ.
 
-לאחר השלמת כל התיקונים, שנה את Content Status מ NEEDS REVISION ל READY FOR REVIEW.
+לאחר השלמת כל התיקונים, שנה את Content Status מ NEEDS REVISION ל APPROVED.
 
  
 
@@ -157,7 +157,7 @@ Tracker
 
 לאחר שמירת התוכן בקובץ הפוסט, עדכן את אותה שורה ב FB content tracker.xlsx.
 
-שנה רק את Content Status מ PENDING ל APPROVED.
+שנה רק את Content Status ל APPROVED, בין אם הסטטוס הקודם היה PENDING ובין אם NEEDS REVISION.
 
 אל תשמור את הטקסט המלא של הפוסט ב Tracker.
 
