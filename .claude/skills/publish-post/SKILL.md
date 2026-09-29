@@ -56,7 +56,7 @@ Publish Status אינו PUBLISHED
    - facebookData: {"type":"POST"}
    - text: תוכן הפוסט
    - autoPublish: true, draft: false
-   - publicationDate: השעה הנוכחית ועוד כ 2 דקות, timezone Asia/Jerusalem
+   - publicationDate: היום בשעה 08:00, timezone Asia/Jerusalem. אם 08:00 כבר עברה, השעה הנוכחית ועוד כ 2 דקות
 4. פרסום נחשב מוצלח רק אם Metricool החזיר תשובה תקינה בלי שגיאה.
 
 עדכון ה Tracker
